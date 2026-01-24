@@ -2,7 +2,7 @@
 
 <p align="left">
  <img height="23" alt="Brazil" src="https://github.com/user-attachments/assets/814d7530-a9bc-41d9-9e98-be9244586d62" />&nbsp; Brazilian<br> 
- <img height="23" alt="Location" src="https://github.com/user-attachments/assets/e9190ab5-1bef-435d-87ac-e80081516372" />&nbsp; Hortolândia - SP <br> 
+ <img height="23" alt="Location" src="https://github.com/Brunarquino/Brunarquino/blob/main/images/Location.png" />&nbsp; Hortolândia - SP <br> 
  <img height="23" alt="Cloud" src="https://github.com/user-attachments/assets/baf94bf2-a7ef-4efb-b031-f641be38f0ec" />&nbsp; Cloud Engineer | + 2 anos <br> 
  <img height="23" alt="Learning" src="https://github.com/user-attachments/assets/fb60a7ab-dc81-4da5-ac76-c900db56d199" />&nbsp; Current learning <a href="https://github.com/Brunarquino/DevOps">DevOps</a> and <a href="https://github.com/Brunarquino/Cloud">Cloud</a> <br>
 </p>
