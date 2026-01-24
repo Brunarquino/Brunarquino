@@ -1,4 +1,4 @@
-<h2 align="left"><img height="23" alt="Person" src="https://github.com/Brunarquino/Brunarquino/blob/main/images/Person.png" />&nbsp;About Me</h3>
+<h2 align="left"><img height="23" alt="Person" src="images/Person.png" />&nbsp;About Me</h3>
 
 <p align="left">
  <img height="23" alt="Brazil" src="https://github.com/Brunarquino/Brunarquino/blob/main/images/Brazil.png" />&nbsp; Brazilian<br> 
